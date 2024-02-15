@@ -7,4 +7,5 @@ python main.py
 python default modules are used.
 
 
-[![1708011221966](image/readme/1708011221966.png)]()
+
+![Screenshot 2024-02-15 212940](https://github.com/Naiml007/passgen/assets/90306726/aa60270c-0640-416d-b221-afcc34ecad94)
