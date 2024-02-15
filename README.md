@@ -1,5 +1,0 @@
-# passgen
-
-```
-python main.py
-```
